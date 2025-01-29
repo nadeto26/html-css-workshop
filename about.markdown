@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the workshop
+title: About the wor
 permalink: /about/
 
 This change will be apployed automatically.
