@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the wor
+title: About the worshop
 permalink: /about/
 
 This change will be apployed automatically.
